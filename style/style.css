@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.box img{
+    width: 388px;
+    height: 188px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    background-color: #b9b9b999;
+    padding: 10px;
+    gap: 12px;
+
+}
+.col-4{
+    padding-bottom: 10px;
+}
